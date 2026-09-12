@@ -1,5 +1,21 @@
 <div align="center">
 
+  <img src="" alt="Hantalyze" width="220">
+
+  <br>
+
+  <h3>Build. Automate. Analyze. Grow.</h3>
+
+  <p>
+    <strong>Software Development · Web · Mobile · AI · Automation</strong>
+  </p>
+
+  <p>
+    Building smarter digital systems for modern businesses.
+  </p>
+
+</div><div align="center">
+
 # Hantalyze
 
 ### Build. Automate. Analyze. Grow.
