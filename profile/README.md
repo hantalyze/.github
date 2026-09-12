@@ -267,12 +267,6 @@ Each public repository will clearly state its license and usage terms.
 
 Hantalyze is built by:
 
-### [Umar Azam](https://github.com/umarazamdev)
-
-Mobile & Web Development
-
-`React Native` · `React` · `TypeScript` · `Node.js`
-
 ### [Abdul Hanan](https://github.com/Abdul-Hanan-07)
 
 Full-Stack Web Development
@@ -280,6 +274,13 @@ Full-Stack Web Development
 `React` · `TypeScript` · `Node.js` · `SQL`
 
 ---
+
+### [Umar Azam](https://github.com/umarazamdev)
+
+Mobile & Web Development
+
+`React Native` · `React` · `TypeScript` · `Node.js`
+
 
 ## Work With Hantalyze
 
